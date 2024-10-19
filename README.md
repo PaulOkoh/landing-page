@@ -1,1 +1,1 @@
-# landing-page
+Exercise from The Odin Project to practice creating a landing page from a provided design document. Landing page is created using only html and CSS.
